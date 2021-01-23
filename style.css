@@ -23,8 +23,18 @@ p{background-color: #d6e9ff;}
     margin: 0 20px;
     color: rgb(255, 249, 158);
     cursor: pointer;
+    text-decoration: underline;
+}
+.active{
+    color: palegreen !important;
 }
 h1{
     font-size: 45px;
     font-family: cartoon;
+}
+.page-content{
+    width: auto;
+    height: auto;
+    border:2px solid cornflowerblue;
+    text
 }
